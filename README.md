@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **bhishm1999@gmail.com**
 
-- ⚡ Fun fact **Time = ∫ (choice) dt**
+- ⚡ Fun fact **Life = ∫ (choice) dt**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhishmdaslaniya&show_icons=true" alt="bhishmdaslaniya" /> </p>
 
